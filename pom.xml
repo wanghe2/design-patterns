@@ -28,5 +28,6 @@
   	<module>design-pattern-strategy</module>
 	<module>design-pattern-proxy</module>
     <module>design-pattern-observer</module>
+    <module>design-pattern-decorator</module>
   </modules>
 </project>

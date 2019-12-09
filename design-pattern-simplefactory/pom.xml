@@ -7,9 +7,7 @@
     <artifactId>design-patterns</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <groupId>com.wang</groupId>
   <artifactId>design-pattern-simplefactory</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
   <name>design-pattern-simplefactory</name>
   <url>http://maven.apache.org</url>
   <properties>

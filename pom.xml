@@ -29,5 +29,12 @@
 	<module>design-pattern-proxy</module>
     <module>design-pattern-observer</module>
     <module>design-pattern-decorator</module>
+    <module>design-pattern-adapter</module>
+    <module>design-pattern-command</module>
+    <module>design-pattern-composite</module>
+    <module>design-pattern-simplefactory</module>
+    <module>design-patterns-template</module>
+    <module>design-pattern-abstractfactory</module>
+    <module>design-pattern-prototype</module>
   </modules>
 </project>
